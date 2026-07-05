@@ -32,8 +32,10 @@ EV kWh Tracker does not sell, rent, or share your personal data with third parti
 
 Data synced through iCloud is handled by Apple according to Apple's iCloud terms and privacy practices.
 
+## Changes to This Policy
+
+This privacy policy may be updated from time to time. Any changes will be published on this page.
+
 ## Contact
 
-For privacy questions, contact:
-
-chris@hoste.io
+For privacy-related questions, please use the support or contact option provided on the app's App Store product page.
